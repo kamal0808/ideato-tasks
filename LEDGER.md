@@ -9,6 +9,12 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | 1 | 2026-10-08 | Kamal Khatwani | Building Ideato to date, at rebuild cost (breakdown below) | 11,55,000 | provisional | |
 | 2 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #9: agent rules any AI can follow | 25 | provisional | https://github.com/kamal0808/ideato-tasks/issues/9 |
 | 3 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #9: AGENTS.md as the one source, machine setup moved out | 2,475 | provisional | https://github.com/kamal0808/ideato/pull/39 |
+| 4 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #11: Neki from the ledger on profiles and the top bar | 30 | provisional | https://github.com/kamal0808/ideato-tasks/issues/11 |
+| 5 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #11: profile Neki and top bar badge from the ledger | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/42 |
+| 6 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #13: Neki as a trust badge next to every member's name | 60 | provisional | https://github.com/kamal0808/ideato-tasks/issues/13 |
+| 7 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #13: Neki badge on cards, comments, search, connections and messages | 5,940 | provisional | https://github.com/kamal0808/ideato/pull/43 |
+| 8 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #14: idea ledgers, idea-givers earn their 1% | 30 | provisional | https://github.com/kamal0808/ideato-tasks/issues/14 |
+| 9 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #14: Ideato reads idea ledgers, AccuGov first | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/44 |
 
 ## Row 1 breakdown (rebuild cost, 2026-10-08)
 
