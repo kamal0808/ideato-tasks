@@ -16,6 +16,7 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 8 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #14: idea ledgers, idea-givers earn their 1% | 30 | provisional | https://github.com/kamal0808/ideato-tasks/issues/14 |
 | 9 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #14: Ideato reads idea ledgers, AccuGov first | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/44 |
 | 10 | 2026-10-08 | Kamal Khatwani | Correction to row 1: building Ideato to date repriced on rate card v2 (work done with AI), 11,55,000 → 2,07,000 (breakdown below) | −9,48,000 | provisional | |
+| 11 | 2026-10-08 | Kamal Khatwani | Ideato v0 (2024): topc.tech "The One Percent Community" site in Plasmic, public members and ideas, consent policy for listing members. Moved from TOPC's ledger (TOPC row 13). Anchors D2 + C3 | 12,500 | provisional | [evidence](https://github.com/kamal0808/topc-website/blob/kamal/rate-card/ecosystem/ledger/topc-discovery-evidence.md) item 10 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
