@@ -2,7 +2,7 @@
 
 Neki earned for work on AccuGov, Satsidha Sahoo's idea on Ideato: https://www.ideato.social/idea/441460ec-c4f8-43cd-89d1-a256ae3051a5
 
-Satsidha posted the idea, so she earns the 1% idea share of every piece of work accepted here; whoever does the work earns the 99%. Rules: TOPC's NEKI.md. This ledger lives in Ideato's tasks repo until AccuGov has its own.
+Satsidha posted the idea, so Satsidha earns the 1% idea share of every piece of work accepted here; whoever does the work earns the 99%. Rules: TOPC's NEKI.md. This ledger lives in Ideato's tasks repo until AccuGov has its own.
 
 Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level freelancer in India would charge for the result). Rows are only ever added, never edited; corrections are new rows. Status is `provisional` until an outside judge reviews it, then `final`.
 
