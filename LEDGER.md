@@ -7,6 +7,8 @@ Units: 1 Neki = 1 rupee of work at market price (what a competent mid-level free
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-08 | Kamal Khatwani | Building Ideato to date, at rebuild cost (breakdown below) | 11,55,000 | provisional | |
+| 2 | 2026-10-08 | Kamal Khatwani | Idea (1%) for #9: agent rules any AI can follow | 25 | provisional | https://github.com/kamal0808/ideato-tasks/issues/9 |
+| 3 | 2026-10-08 | Kamal Khatwani (via Claude) | Work (99%) on #9: AGENTS.md as the one source, machine setup moved out | 2,475 | provisional | https://github.com/kamal0808/ideato/pull/39 |
 
 ## Row 1 breakdown (rebuild cost, 2026-10-08)
 
