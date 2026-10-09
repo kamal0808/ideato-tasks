@@ -18,6 +18,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 10 | 2026-10-08 | Kamal Khatwani | Correction to row 1: building Ideato to date repriced on rate card v2 (work done with AI), 11,55,000 → 2,07,000 (breakdown below) | −9,48,000 | provisional | |
 | 11 | 2026-10-08 | Kamal Khatwani | Ideato v0 (2024): topc.tech "The One Percent Community" site in Plasmic, public members and ideas, consent policy for listing members. Moved from TOPC's ledger (TOPC row 13). Anchors D2 + C3 | 12,500 | provisional | [evidence](https://github.com/kamal0808/topc-website/blob/kamal/rate-card/ecosystem/ledger/topc-discovery-evidence.md) item 10 |
 | 12 | 2026-10-09 | Kamal Khatwani | Correction to row 11: Ideato v0 was built by hand in 2024, so it's priced on the hand-work prices (TOPC rate card v2.1): D2 + C3 = 65,000 | 52,500 | provisional | |
+| 13 | 2026-10-10 | Kamal Khatwani | Idea (1%) for #19: a page that explains what Neki means, and the ledger minus-sign fix | 23 | provisional | https://github.com/kamal0808/ideato-tasks/issues/19 |
+| 14 | 2026-10-10 | Kamal Khatwani (via Claude) | Work (99%) on #19: public /neki page, TOPC and Neki ledgers read by Ideato, corrections with − now subtract | 2,277 | provisional | https://github.com/kamal0808/ideato/pull/46 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
