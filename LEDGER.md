@@ -25,6 +25,7 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 17 | 2026-10-11 | Kamal Khatwani | Idea (1%) for #39: a personal invite link that sends someone straight into their tasks | 65 | provisional | https://github.com/kamal0808/ideato-tasks/issues/39 |
 | 18 | 2026-10-11 | Kamal Khatwani (via Claude) | Work (99%) on #39: /i/<code> invite page, brief.md for their AI, connector task tools. Anchor C3 (6,500) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/53 |
 | 19 | 2026-10-11 | Kamal Khatwani | #40 accepted: Neki already in rows 15–16, no new Neki | 0 | provisional | https://github.com/kamal0808/ideato-tasks/issues/40 |
+| 20 | 2026-10-11 | Kamal Khatwani | Ideato's past directions (Oct 2025–Apr 2026), built and later parked, not in row 1: rate card v2 (breakdown below) | 77,250 | provisional | |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
@@ -44,3 +45,21 @@ What's live and used on ideato.social today, priced at what it would cost to get
 | **Total** | | **2,07,000** |
 
 Not included: the standalone Founderbot app (same repo, its own ledger); parked features (idea rooms, idea story, virality scores, logo generator, Pro billing), which can be added as new rows if they come back into use; bought admin template pages; Kamal's 1% idea pool share as Ideato's originator.
+
+## Row 20 breakdown (rate card v2, 2026-10-11)
+
+Directions Ideato took in the ideato repo and later dropped. Row 1 only prices what's live; these were real builds, each a different execution of the same idea. Founderbot's work in the same repo is on Founderbot's ledger, not here.
+
+| Direction | When | Anchors | Neki |
+|---|---|---|---|
+| Execute with AI: AI breaks an idea into tasks and subtasks, with guidance per subtask | Oct 2025 | 2 × C3 | 13,000 |
+| Virality and impact scores: AI scoring, tooltips, breakdown sidebar, explainer videos | Oct–Nov 2025 | C3 + C2 | 8,000 |
+| Idea rooms: join an idea, contributors page, discussions, channels and DMs, a channel per phase, public chat | Nov 2025 | C4 | 32,000 |
+| Pro plan: features locked behind Pro | Nov 2025 | C2 | 1,500 |
+| Idea stories: animated story preview of an idea, ~250 animations and illustrations | Nov 2025 | C3 + D2 | 12,500 |
+| AI naming: idea logos, several AI names per idea, elevator pitch | Oct–Nov 2025 | 2 × C2 | 3,000 |
+| AI-enriched ideas: research tab with perspectives and angles, web search, idea insights in the feed | Dec 2025, Apr 2026 | C3 | 6,500 |
+| Madlibs idea input on the landing page (half finished, one day) | Dec 2025 | ½ × C2 | 750 |
+| **Total** | | | **77,250** |
+
+Evidence: the ideato repo's commit history for those months.
