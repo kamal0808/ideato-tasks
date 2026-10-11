@@ -22,6 +22,9 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 14 | 2026-10-10 | Kamal Khatwani (via Claude) | Work (99%) on #19: public /neki page, TOPC and Neki ledgers read by Ideato, corrections with − now subtract | 2,277 | provisional | https://github.com/kamal0808/ideato/pull/46 |
 | 15 | 2026-10-10 | Kamal Khatwani | Idea (1%): spotted that ideas posted with a screenshot showed only text in the feed. Task priced 1,500 | 15 | provisional | https://github.com/kamal0808/ideato/pull/52 |
 | 16 | 2026-10-10 | Kamal Khatwani (via Claude) | Work (99%): feed cards show an idea's images and videos, fetched in the existing feed query. Anchor C2 (1,500) | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/52 |
+| 17 | 2026-10-11 | Kamal Khatwani | Idea (1%) for #39: a personal invite link that sends someone straight into their tasks | 65 | provisional | https://github.com/kamal0808/ideato-tasks/issues/39 |
+| 18 | 2026-10-11 | Kamal Khatwani (via Claude) | Work (99%) on #39: /i/<code> invite page, brief.md for their AI, connector task tools. Anchor C3 (6,500) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/53 |
+| 19 | 2026-10-11 | Kamal Khatwani | #40 accepted: Neki already in rows 15–16, no new Neki | 0 | provisional | https://github.com/kamal0808/ideato-tasks/issues/40 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
