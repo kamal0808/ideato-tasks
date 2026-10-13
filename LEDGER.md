@@ -26,6 +26,12 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 18 | 2026-10-11 | Kamal Khatwani (via Claude) | Work (99%) on #39: /i/<code> invite page, brief.md for their AI, connector task tools. Anchor C3 (6,500) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/53 |
 | 19 | 2026-10-11 | Kamal Khatwani | #40 accepted: Neki already in rows 15–16, no new Neki | 0 | provisional | https://github.com/kamal0808/ideato-tasks/issues/40 |
 | 20 | 2026-10-11 | Kamal Khatwani | Ideato's past directions (Oct 2025–Apr 2026), built and later parked, not in row 1: rate card v2 (breakdown below) | 77,250 | provisional | |
+| 21 | 2026-10-13 | Kamal Khatwani | Idea (1%) for #49: clear the bell badge when the bell is opened. Backfill. Task priced 1,500 | 15 | provisional | https://github.com/kamal0808/ideato-tasks/issues/49 |
+| 22 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on #49: badge counts unread since the bell was last opened. Anchor C2 (1,500) | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/55 |
+| 23 | 2026-10-13 | Kamal Khatwani | Idea (1%) for #50: a task board on the idea page from the project's GitHub issues. Backfill. Task priced 6,500 | 65 | provisional | https://github.com/kamal0808/ideato-tasks/issues/50 |
+| 24 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on #50: idea page task board read live from the tasks repo. Anchor C3 (6,500) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/50 |
+| 25 | 2026-10-13 | Kamal Khatwani | Idea (1%) for #51: invite link previews say who's inviting to what. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/ideato-tasks/issues/51 |
+| 26 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on #51: inviter and idea in link previews, preview image loads signed out. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/ideato/pull/54 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
