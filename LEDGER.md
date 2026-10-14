@@ -54,6 +54,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 46 | 2026-10-15 | Kamal Khatwani | Work (99%) on #84: Invite someone into any project, not just TOPC (first: Sayan into Unwall) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/73 |
 | 47 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #64: Task board starts on tasks that match your skills (For you) | 15 | provisional | https://github.com/kamal0808/ideato/pull/74 |
 | 48 | 2026-10-15 | Kamal Khatwani | Work (99%) on #64: Task board starts on tasks that match your skills (For you) | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/74 |
+| 49 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #86: Profiles that build themselves: live activity, streaks and earned badges for every member | 30 | provisional | https://github.com/kamal0808/ideato/pull/80 |
+| 50 | 2026-10-15 | Kamal Khatwani | Work (99%) on #86: Profiles that build themselves: live activity, streaks and earned badges for every member | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/80 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
