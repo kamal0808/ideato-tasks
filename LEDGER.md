@@ -32,6 +32,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 24 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on #50: idea page task board read live from the tasks repo. Anchor C3 (6,500) | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/50 |
 | 25 | 2026-10-13 | Kamal Khatwani | Idea (1%) for #51: invite link previews say who's inviting to what. Backfill. Task priced 800 | 8 | provisional | https://github.com/kamal0808/ideato-tasks/issues/51 |
 | 26 | 2026-10-13 | Kamal Khatwani (via Claude) | Work (99%) on #51: inviter and idea in link previews, preview image loads signed out. Anchor C1 (800) | 792 | provisional | https://github.com/kamal0808/ideato/pull/54 |
+| 27 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #78: Google sign-in lands on the home page instead of back where you started | 8 | provisional | https://github.com/kamal0808/ideato/pull/66 |
+| 28 | 2026-10-15 | Kamal Khatwani | Work (99%) on #78: Google sign-in lands on the home page instead of back where you started | 792 | provisional | https://github.com/kamal0808/ideato/pull/66 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
