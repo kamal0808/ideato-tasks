@@ -42,6 +42,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 34 | 2026-10-15 | Kamal Khatwani | Work (99%) on #62: Task board on project pages: give it the full width and fix the cramped, duplicated UI | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/69 |
 | 35 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #80: Project page opens on what the project is: About tab first, with the site's preview | 15 | provisional | https://github.com/kamal0808/ideato/pull/69 |
 | 36 | 2026-10-15 | Kamal Khatwani | Work (99%) on #80: Project page opens on what the project is: About tab first, with the site's preview | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/69 |
+| 37 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #81: Every project page gets a 'Do it with your AI' button and a brief any AI can read | 15 | provisional | https://github.com/kamal0808/ideato/pull/69 |
+| 38 | 2026-10-15 | Kamal Khatwani | Work (99%) on #81: Every project page gets a 'Do it with your AI' button and a brief any AI can read | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/69 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
