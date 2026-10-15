@@ -71,6 +71,7 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 63 | 2026-10-15 | Kamal Khatwani | Work (99%) on #98: Compact the Work with AI button and stop its menu getting clipped in the project card | 792 | provisional | https://github.com/kamal0808/ideato/pull/86 |
 | 64 | 2026-10-15 | Kamal Khatwani | Work (99%) on #88: Neki notifications say what the Neki was earned for | 792 | provisional | https://github.com/kamal0808/ideato/pull/77 |
 | 65 | 2026-10-15 | Kamal Khatwani | Work (99%) on #89: Landing header matches app pages, with search for signed-in users | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/79 |
+| 66 | 2026-10-15 | Kamal Khatwani | Work (99%) on #91: Feed shows everything happening on Ideato, and looks good | 31,680 | provisional | https://github.com/kamal0808/ideato/pull/87 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
