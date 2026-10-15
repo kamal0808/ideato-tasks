@@ -73,6 +73,7 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 65 | 2026-10-15 | Kamal Khatwani | Work (99%) on #89: Landing header matches app pages, with search for signed-in users | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/79 |
 | 66 | 2026-10-15 | Kamal Khatwani | Work (99%) on #91: Feed shows everything happening on Ideato, and looks good | 31,680 | provisional | https://github.com/kamal0808/ideato/pull/87 |
 | 67 | 2026-10-15 | Kamal Khatwani | Work (99%) on #103: Signed in: header links back instead of search, / opens /feed, logo still reaches the landing page | 792 | provisional | https://github.com/kamal0808/ideato/pull/92 |
+| 68 | 2026-10-15 | Kamal Khatwani | Work (99%) on #100: Landing: hero heading "Build your ideas in public, with people who care." | 792 | provisional | https://github.com/kamal0808/ideato/pull/90 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
