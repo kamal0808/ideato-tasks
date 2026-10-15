@@ -76,6 +76,9 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 68 | 2026-10-15 | Kamal Khatwani | Work (99%) on #100: Landing: hero heading "Build your ideas in public, with people who care." | 792 | provisional | https://github.com/kamal0808/ideato/pull/90 |
 | 69 | 2026-10-15 | Kamal Khatwani | Work (99%) on #101: Landing hero: "Post with AI" button next to Post | 792 | provisional | https://github.com/kamal0808/ideato/pull/91 |
 | 70 | 2026-10-16 | Kamal Khatwani | Work (99%) on #104: Invite links show the project's own preview image, not the generic Ideato card | 792 | provisional | https://github.com/kamal0808/ideato/pull/93 |
+| 71 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #104: Invite links show the project's own preview image, not the generic Ideato card | 8 | provisional | https://github.com/kamal0808/ideato/pull/93 |
+| 72 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #105: ChatGPT listing: explicit tool annotations and a reviewer test account with password sign-in | 15 | provisional | https://github.com/kamal0808/ideato/pull/95 |
+| 73 | 2026-10-16 | Kamal Khatwani | Work (99%) on #105: ChatGPT listing: explicit tool annotations and a reviewer test account with password sign-in | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/100 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
