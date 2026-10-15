@@ -66,6 +66,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 58 | 2026-10-15 | Kamal Khatwani | Work (99%) on #85: Join wizard fixes from Kamal's phone test: header overlap, a real welcome, an understandable co-op step | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/84 |
 | 59 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #87: Signing out throws "Auth session missing" and leaves you signed in | 8 | provisional | https://github.com/kamal0808/ideato/pull/84 |
 | 60 | 2026-10-15 | Kamal Khatwani | Work (99%) on #87: Signing out throws "Auth session missing" and leaves you signed in | 792 | provisional | https://github.com/kamal0808/ideato/pull/84 |
+| 61 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #60: Similar ideas shows unrelated ideas and misses the related ones | 15 | provisional | https://github.com/kamal0808/ideato/pull/85 |
+| 62 | 2026-10-15 | Kamal Khatwani | Work (99%) on #60: Similar ideas shows unrelated ideas and misses the related ones | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/85 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
