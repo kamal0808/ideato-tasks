@@ -79,6 +79,23 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 71 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #104: Invite links show the project's own preview image, not the generic Ideato card | 8 | provisional | https://github.com/kamal0808/ideato/pull/93 |
 | 72 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #105: ChatGPT listing: explicit tool annotations and a reviewer test account with password sign-in | 15 | provisional | https://github.com/kamal0808/ideato/pull/95 |
 | 73 | 2026-10-16 | Kamal Khatwani | Work (99%) on #105: ChatGPT listing: explicit tool annotations and a reviewer test account with password sign-in | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/100 |
+| 74 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #98: Compact the Work with AI button and stop its menu getting clipped in the project card (backfilled) | 8 | provisional | https://github.com/kamal0808/ideato/pull/86 |
+| 75 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #88: Neki notifications say what the Neki was earned for (backfilled) | 8 | provisional | https://github.com/kamal0808/ideato/pull/77 |
+| 76 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #89: Landing header matches app pages, with search for signed-in users (backfilled) | 15 | provisional | https://github.com/kamal0808/ideato/pull/79 |
+| 77 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #91: Feed shows everything happening on Ideato, and looks good (backfilled) | 320 | provisional | https://github.com/kamal0808/ideato/pull/87 |
+| 78 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #103: Signed in: header links back instead of search, / opens /feed, logo still reaches the landing page (backfilled) | 8 | provisional | https://github.com/kamal0808/ideato/pull/92 |
+| 79 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #100: Landing: hero heading "Build your ideas in public, with people who care." (backfilled) | 8 | provisional | https://github.com/kamal0808/ideato/pull/90 |
+| 80 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #101: Landing hero: "Post with AI" button next to Post (backfilled) | 8 | provisional | https://github.com/kamal0808/ideato/pull/91 |
+| 81 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #109: Ideato launch plan: first users, launch test and the ChatGPT gap | 30 | provisional | https://github.com/topc-social/ideato-tasks/issues/109 |
+| 82 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #109: Ideato launch plan: first users, launch test and the ChatGPT gap. Anchor R1 (3,000) | 2,970 | provisional | https://github.com/topc-social/ideato-tasks/issues/109 |
+| 83 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #36: Hand-ins work for every project's tasks, with the task as the record (backfilled; accepted 2026-10-14) | 30 | provisional | https://github.com/topc-social/ideato-tasks/issues/36 |
+| 84 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #36: Hand-ins work for every project's tasks, with the task as the record (backfilled; accepted 2026-10-14) | 2,970 | provisional | https://github.com/kamal0808/ideato/pull/62 |
+| 85 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #56: Founding-member onboarding for The 1% Co-op: from a Reddit link to member and first task (backfilled; accepted 2026-10-14) | 60 | provisional | https://github.com/topc-social/ideato-tasks/issues/56 |
+| 86 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #56: Founding-member onboarding for The 1% Co-op: from a Reddit link to member and first task (backfilled; accepted 2026-10-14) | 5,940 | provisional | https://github.com/kamal0808/ideato/pull/60 |
+| 87 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #59: Join wizard for every project: step by step, with that project's own agreement (backfilled; accepted 2026-10-14) | 90 | provisional | https://github.com/topc-social/ideato-tasks/issues/59 |
+| 88 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #59: Join wizard for every project: step by step, with that project's own agreement (backfilled; accepted 2026-10-14) | 8,910 | provisional | https://github.com/kamal0808/ideato/pull/65 |
+| 89 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #72: Every hand-in is a pull request: Ideato opens it for people without GitHub, and the ledger row writes itself (backfilled; accepted 2026-10-14) | 80 | provisional | https://github.com/topc-social/ideato-tasks/issues/72 |
+| 90 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #72: Every hand-in is a pull request: Ideato opens it for people without GitHub, and the ledger row writes itself (backfilled; accepted 2026-10-14) | 7,920 | provisional | https://github.com/kamal0808/ideato/pull/62 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
