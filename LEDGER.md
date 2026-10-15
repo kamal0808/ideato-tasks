@@ -62,6 +62,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 54 | 2026-10-15 | Kamal Khatwani | Work (99%) on #92: Ideato = "Idea to": rotating hero (Idea to people, dialogue, agreement…) replaces "idea social network" | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/81 |
 | 55 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #95: What collaboration tools do today and what's missing: the gap Ideato fills | 75 | provisional | https://github.com/kamal0808/ideato/pull/83 |
 | 56 | 2026-10-15 | Kamal Khatwani | Work (99%) on #95: What collaboration tools do today and what's missing: the gap Ideato fills | 7,425 | provisional | https://github.com/kamal0808/ideato/pull/83 |
+| 57 | 2026-10-15 | Kamal Khatwani | Idea (1%) for #85: Join wizard fixes from Kamal's phone test: header overlap, a real welcome, an understandable co-op step | 15 | provisional | https://github.com/kamal0808/ideato/pull/84 |
+| 58 | 2026-10-15 | Kamal Khatwani | Work (99%) on #85: Join wizard fixes from Kamal's phone test: header overlap, a real welcome, an understandable co-op step | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/84 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
