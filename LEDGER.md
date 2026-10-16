@@ -96,6 +96,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 88 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #59: Join wizard for every project: step by step, with that project's own agreement (backfilled; accepted 2026-10-14) | 8,910 | provisional | https://github.com/kamal0808/ideato/pull/65 |
 | 89 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #72: Every hand-in is a pull request: Ideato opens it for people without GitHub, and the ledger row writes itself (backfilled; accepted 2026-10-14) | 80 | provisional | https://github.com/topc-social/ideato-tasks/issues/72 |
 | 90 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #72: Every hand-in is a pull request: Ideato opens it for people without GitHub, and the ledger row writes itself (backfilled; accepted 2026-10-14) | 7,920 | provisional | https://github.com/kamal0808/ideato/pull/62 |
+| 91 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #107: Make the feed feel human: real logos, plain words, pictures | 15 | provisional | https://github.com/kamal0808/ideato/pull/102 |
+| 92 | 2026-10-16 | Kamal Khatwani | Work (99%) on #107: Make the feed feel human: real logos, plain words, pictures | 1,485 | provisional | https://github.com/kamal0808/ideato/pull/102 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
