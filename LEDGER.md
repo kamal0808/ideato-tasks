@@ -106,6 +106,8 @@ Units: 1 Neki = 1 rupee of work at today's market price (what it costs to get th
 | 98 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #22: Invite co-founders to agree how a private idea is split | 9,900 | provisional | https://github.com/kamal0808/ideato/pull/49 |
 | 99 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #47: Show who earned what on Founderbot and anytoany | 8 | provisional | https://github.com/topc-social/ideato-tasks/issues/47 |
 | 100 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #47: Show who earned what on Founderbot and anytoany | 792 | provisional | https://github.com/kamal0808/ideato/pull/57 |
+| 101 | 2026-10-16 | Kamal Khatwani | Idea (1%) for #53: Redo the profile page so your work comes first | 65 | provisional | https://github.com/topc-social/ideato-tasks/issues/53 |
+| 102 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #53: Redo the profile page so your work comes first | 6,435 | provisional | https://github.com/kamal0808/ideato/pull/58 |
 
 ## Row 1 breakdown (rebuild cost on rate card v2, 2026-10-08)
 
