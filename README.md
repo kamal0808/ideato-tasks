@@ -13,7 +13,7 @@ The code is in a separate private repo.
 1. Pick any open issue. Anyone can hand in, and the best hand-in wins. A `winners:N` label means up to N people can each earn the Neki.
 2. Do the work however you like, including with your own AI.
 3. Hand in by commenting on the issue with a link others can open and a line or two on what you did. No GitHub account? Comment on [Ideato's idea page](https://www.ideato.social/idea/b5e8c42c-ad2d-42de-9ead-a6f981e74c2a) for now.
-4. Kamal accepts the best hand-in, labels the issue `accepted`, and closes it. The Neki is added as a row in [`LEDGER.md`](LEDGER.md).
+4. Kamal accepts the best hand-in, labels the issue `accepted`, and closes it. A workflow then adds the two Neki rows (1% idea, 99% work) to [`LEDGER.md`](LEDGER.md) itself.
 
 ## Rules
 
